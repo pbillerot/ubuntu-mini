@@ -23,13 +23,13 @@ Script d'installation d'un Ubuntu minimal pour Google Chrome
 - Activer mode nuit
 - Régler Souris pavé tactile
 ### Détails
-Utilisateurs: connexion automatique ?
-Applications par défaut : Chrome, Vlc, Visionneuse d'images
+- Utilisateurs: connexion automatique ?
+- Applications par défaut : Chrome, Vlc, Visionneuse d'images
 
 ## Réglages Gnome
-Barre Supérieure : pourcentage batterie
-Pavé tactile : désactiver pendant la saisie
-Energie: mettre en veille si écran rabattu
+- Barre Supérieure : pourcentage batterie
+- Pavé tactile : désactiver pendant la saisie
+- Energie: mettre en veille si écran rabattu
 
 ## Réglage Chrome
 ### Barre personnelle
