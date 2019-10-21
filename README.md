@@ -13,3 +13,35 @@ Script d'installation d'un Ubuntu minimal pour Google Chrome
 ## Suppression / installations des applications
 - lancer le script ```install-ubuntu-mini.sh```
 
+## Réglages Ubuntu
+### Energie
+- Ecran noir
+- Mise en veille automatique ?
+### Son
+- vérifier Entrée . Sortie
+### Périphériques
+- Activer mode nuit
+- Régler Souris pavé tactile
+### Détails
+Utilisateurs: connexion automatique ?
+Applications par défaut : Chrome, Vlc, Visionneuse d'images
+
+## Réglages Gnome
+Barre Supérieure : pourcentage batterie
+Pavé tactile : désactiver pendant la saisie
+Energie: mettre en veille si écran rabattu
+
+## Réglage Chrome
+### Barre personnelle
+- Actualités, Google, Gmail, Contacts, Agenda, Photos, Drive
+### Extensions
+- Chrome Remote Desktop
+- Extension Google Kepp pour Chrome
+### Drive
+- convertir les fichiers importés
+
+## Réglages imprimante
+...attente cas concrets
+
+
+
