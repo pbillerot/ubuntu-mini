@@ -12,6 +12,6 @@ Script d'installation d'un Ubuntu minimal pour Google Chrome
 
 ## Suppression des applications non nécessaires
 Dans l'application **Logiciels Ubunu** onglet **Installées**
-- supprimer Firefox
-- supprimer la calculatrice
+- supprimer Firefox ```sudo apt remove firefox*```
+- supprimer la calculatrice ```sudo apt remove gnome-calculator```
 
