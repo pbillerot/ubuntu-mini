@@ -8,7 +8,8 @@ Script d'installation d'un Ubuntu minimal pour Google Chrome
 
 ## Installation Ubuntu sur la machine cible :
 - boot sur la clé USB
-- choisir l'installation minimale: Web + utilitaires + logiciels tiers
+- choisir l'installation minimale: Web et utilitaires de base + logiciel tiers
+> Attention lors de la frappe au clavier, celui-ci est en querty malgré le choix du clavier azerty peu avant
 
 ## Suppression / installations des applications
 - lancer le script ```install-ubuntu-mini.sh```
