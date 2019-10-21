@@ -10,8 +10,6 @@ Script d'installation d'un Ubuntu minimal pour Google Chrome
 - boot sur la clé USB
 - choisir l'installation minimale
 
-## Suppression des applications non nécessaires
-Dans l'application **Logiciels Ubunu** onglet **Installées**
-- supprimer Firefox ```sudo apt remove firefox*```
-- supprimer la calculatrice ```sudo apt remove gnome-calculator```
+## Suppression / installations des applications
+- lancer le script ```install-ubuntu-mini.sh```
 
