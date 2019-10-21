@@ -21,6 +21,8 @@ chmod +x install-ubuntu-mini.sh
 # Vérifier que firefox n'est pas ouvert
 ./install-ubuntu-mini.sh
 ```
+- supprimer le script
+
 > Étapes suivantes à réaliser avec l'utilisateur de la machine 
 
 ## Réglages Ubuntu (application Paramètres)
