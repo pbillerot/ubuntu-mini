@@ -23,8 +23,6 @@ sudo apt install gnome-system-calculator
 sudo apt install gnome-calculator
 # Lecteur multimédia
 sudo apt install vlc
-# Pour récupérer ce script sur les machines
-sudo apt install git
 
 # LibreOffice non nécessaire car documents gérés dans Google Drive
 # sudo apt-get install libreoffice libreoffice-gtk libreoffice-l10n-fr libreoffice-help-fr hyphen-fr
