@@ -18,33 +18,51 @@ nano install-ubuntu-mini.sh
   copier coller du contenu dans l'éditeur
 Ctrl+o Ctrl+x
 chmod +x install-ubuntu-mini.sh
+# Vérifier que firefox n'est pas ouvert
 ./install-ubuntu-mini.sh
 ```
+> Étapes suivantes à réaliser avec l'utilisateur de la machine 
 
-## Réglages Ubuntu
+## Réglages Ubuntu (application Paramètres)
+### Wifi
+
+### Bluetooth
+
 ### Energie
-- Ecran noir
-- Mise en veille automatique ?
+- Ecran noir 15 minutes
+- Mise en veille automatique ? à voir avec utilisateur
 ### Son
-- vérifier Entrée . Sortie
+- vérifier Entrée / Sortie
 ### Périphériques
-- Activer mode nuit
+- Écrans: Activer mode nuit
 - Régler Souris pavé tactile
 ### Détails
 - Utilisateurs: connexion automatique ?
 - Applications par défaut : Chrome, Vlc, Visionneuse d'images
 
-## Réglages Gnome
+## Réglages Gnome 
+### Application Ajustements
 - Barre Supérieure : pourcentage batterie
-- Pavé tactile : désactiver pendant la saisie
+- Clavier & souris / Pavé tactile : désactiver pendant la saisie
 - Energie: mettre en veille si écran rabattu
+### Bureau
+- Enlever des favoris: Aide
+- Ajouter Calculatrice aux favoris
+
+> Redémarrage de la machine 
 
 ## Réglage Chrome
+### Options au 1er démarrage de Chrome
+- Navigateur par défaut
+- Décocher l'envoi des statistiques
+- Ajouter Chrome aux favoris du dock
+- Personnaliser la page d'accueil
 ### Barre personnelle
-- Actualités, Google, Gmail, Contacts, Agenda, Photos, Drive
+- Actualités, Gmail, Drive, Photos, Contacts, Agenda, Keep
 ### Extensions
 - Chrome Remote Desktop
-- Extension Google Kepp pour Chrome
+> lancer le téléchargement de l'extension
+- Extension Google Keep pour Chrome
 ### Drive
 - convertir les fichiers importés
 
