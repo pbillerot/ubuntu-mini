@@ -1,6 +1,8 @@
 # ubuntu-mini
 Script d'installation d'un Ubuntu minimal pour Google Chrome
 
+[Wiki](https://github.com/pbillerot/ubuntu-mini/wiki)
+
 ## Préalables :
 - disposer d'un compte Gmail
 - Créer une image iso d'Ubuntu à partir de la version la plus stable (LTS) usr une clé USB
