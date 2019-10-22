@@ -16,9 +16,7 @@ Script d'installation d'un Ubuntu minimal pour Google Chrome
 ## Suppression / installations des applications
 - lancer le script ```install-ubuntu-mini.sh```
 ```
-nano install-ubuntu-mini.sh
-  copier coller du contenu dans l'éditeur
-Ctrl+o Ctrl+x
+wget https://raw.githubusercontent.com/pbillerot/ubuntu-mini/master/install-ubuntu-mini.sh
 chmod +x install-ubuntu-mini.sh
 # Vérifier que firefox n'est pas ouvert
 ./install-ubuntu-mini.sh
