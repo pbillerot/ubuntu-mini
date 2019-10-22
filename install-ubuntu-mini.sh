@@ -17,8 +17,11 @@ sudo apt-get install -y google-chrome-stable
 
 # Gnome + Système
 sudo apt install -y gnome-tweak-tool
-sudo apt install -y gnome-system-calculator
-
+sudo apt install -y gnome-system-monitor
+sudo apt install -y nautilus-image-converter
+sudo apt install -y inxi
+# Gallerie photos
+sudo apt install -y shotwell
 # Calculatrice
 sudo apt install -y gnome-calculator
 # Lecteur multimédia
