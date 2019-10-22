@@ -61,6 +61,8 @@ chmod +x install-ubuntu-mini.sh
 - Personnaliser la page d'accueil
 ### Barre personnelle
 - Actualités, Gmail, Drive, Photos, Contacts, Agenda, Keep
+- Autoriser Gmail à lire les liens email
+- Autoriser Agenda à lire les liens caldav
 ### Extensions
 - Chrome Remote Desktop
 > lancer le téléchargement de l'extension
