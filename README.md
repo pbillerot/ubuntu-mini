@@ -10,7 +10,10 @@ Script d'installation d'un Ubuntu minimal pour Google Chrome
 
 ## Installation Ubuntu sur la machine cible :
 - boot sur la clé USB
+- clavier: Français - Français (latin-9)
 - choisir l'installation minimale: Web et utilitaires de base + logiciel tiers
+- saisie du compte utilisateur
+- ouvrir la session automatiquement
 > Attention lors de la frappe au clavier, celui-ci est resté en querty malgré le choix du clavier azerty peu avant _(sera pris en compte au prochain boot)_
 
 ## Suppression / installations des applications
@@ -19,7 +22,7 @@ Appel du script d'installation du poste
 sudo apt install curl
 curl -sSL https://raw.githubusercontent.com/pbillerot/ubuntu-mini/master/install-ubuntu-mini.sh | sh
 ```
-> Étapes suivantes à réaliser avec l'utilisateur de la machine 
+> Relance avec le compte de l'utilisateur
 
 ## Réglages Ubuntu (application Paramètres)
 ### Wifi
@@ -40,6 +43,7 @@ curl -sSL https://raw.githubusercontent.com/pbillerot/ubuntu-mini/master/install
 
 ## Réglages Gnome 
 ### Application Ajustements
+- Apparence : Thème Radiance
 - Barre Supérieure : pourcentage batterie
 - Clavier & souris / Pavé tactile : désactiver pendant la saisie
 - Energie: mettre en veille si écran rabattu

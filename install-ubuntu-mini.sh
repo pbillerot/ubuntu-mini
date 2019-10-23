@@ -20,6 +20,7 @@ sudo apt-get install -y google-chrome-stable
 sudo apt install -y gnome-tweak-tool
 sudo apt install -y nautilus-image-converter
 sudo apt install -y inxi
+sudo apt install -y baobab
 sudo apt install -y gnome-calculator gnome-logs gnome-characters gnome-system-monitor
 # Gallerie photos
 sudo apt install -y shotwell
