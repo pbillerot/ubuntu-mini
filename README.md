@@ -20,8 +20,6 @@ Script d'installation d'un Ubuntu minimal pour Google Chrome
 
 > Autoriser la mise à jour
 
-> boot
-
 ## Suppression / installations des applications
 Appel du script d'installation du poste
 ```
@@ -31,6 +29,7 @@ curl -sSL https://raw.githubusercontent.com/pbillerot/ubuntu-mini/master/install
 > Relance avec le compte de l'utilisateur
 
 ## Réglages Ubuntu (application Paramètres)
+
 ### Wifi
 
 ### Bluetooth
@@ -50,34 +49,55 @@ curl -sSL https://raw.githubusercontent.com/pbillerot/ubuntu-mini/master/install
 ## Réglages Gnome 
 ### Application Ajustements
 - Apparence : Thème Radiance
-- Barre Supérieure : pourcentage batterie
+- Barre Supérieure : pourcentage batterie, Date
 - Clavier & souris / Pavé tactile : désactiver pendant la saisie
 - Energie: mettre en veille si écran rabattu
 ### Bureau
-- Enlever des favoris: Aide
+- Enlever des favoris: Aide, Rhythmbox
 - Ajouter Calculatrice aux favoris
+- Ajouter Chrome aux favoris du dock
+
+### Préférences des applications au démarrage
+- enlever snap
 
 > Redémarrage de la machine 
 
 ## Réglage Chrome
+
+> Créer un compte Gmail si nécessaire
+
 ### Options au 1er démarrage de Chrome
 - Navigateur par défaut
 - Décocher l'envoi des statistiques
-- Ajouter Chrome aux favoris du dock
 - Personnaliser la page d'accueil
 ### Barre personnelle
 - Actualités, Gmail, Drive, Photos, Contacts, Agenda, Keep
-- Autoriser Gmail à lire les liens email
+- Keep liste de tâches
+- Créer un dossier dans les favoris - Ajouter des favoris
+- Regrouper les applications google dans Google
+### Réglages applications Google
+- Autoriser Gmail à lire les liens email + ...
 - Autoriser Agenda à lire les liens caldav
-### Extensions
-- Chrome Remote Desktop
-> lancer le téléchargement de l'extension
+- Drive: réglage convertir les fichiers importés
+### Fichiers / Préférences
+- Ctrl_+ Ctrl_- Ctrl_0 
+- Voir si la box est visible dans Autres emplacements
+- Envoyer multimedia.zip via la messagerie
+### Extensions Chrome
 - Extension Google Keep pour Chrome
-### Drive
-- convertir les fichiers importés
+- Chrome Remote Desktop https://remotedesktop.google.com
+- lancer le téléchargement de l'extension
+- Ajouter le lien dans Google
+- tester une assistante à distante 
 
-## Réglages imprimante
+## Réglages imprimante 
 ...attente cas concrets
+
+## Réglages scanner 
+...attente cas concrets
+
+## Hangout avec appel vidéo
+
 
 
 

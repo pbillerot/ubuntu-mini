@@ -29,9 +29,9 @@ sudo apt install -y gnome-calculator gnome-logs gnome-characters gnome-system-mo
 sudo apt install -y shotwell
 # Lecteur multimédia
 sudo apt install -y vlc rhythmbox
+# LibreOffice
+sudo apt install -y libreoffice libreoffice-gtk libreoffice-l10n-fr libreoffice-help-fr hyphen-fr
 
 # Nettoyage
 sudo apt autoremove -y
 
-# LibreOffice non nécessaire car documents gérés dans Google Drive
-# sudo apt-get install libreoffice libreoffice-gtk libreoffice-l10n-fr libreoffice-help-fr hyphen-fr
