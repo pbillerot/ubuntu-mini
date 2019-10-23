@@ -10,11 +10,17 @@ Script d'installation d'un Ubuntu minimal pour Google Chrome
 
 ## Installation Ubuntu sur la machine cible :
 - boot sur la clé USB
-- clavier: Français - Français (latin-9)
+- clavier: Français - Français (variante, latin-9 uniquement)
 - choisir l'installation minimale: Web et utilitaires de base + logiciel tiers
 - saisie du compte utilisateur
 - ouvrir la session automatiquement
 > Attention lors de la frappe au clavier, celui-ci est resté en querty malgré le choix du clavier azerty peu avant _(sera pris en compte au prochain boot)_
+
+> boot
+
+> Autoriser la mise à jour
+
+> boot
 
 ## Suppression / installations des applications
 Appel du script d'installation du poste

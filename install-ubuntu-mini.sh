@@ -7,6 +7,9 @@ rm -fr ~/snap
 # Suppression de Firefox (sera remplacé par Chrome)
 sudo apt remove firefox* -y
 
+sudo update
+sudo upgrade -y
+
 # Installation paquets standards
 
 # Google Chrome
