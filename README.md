@@ -14,15 +14,11 @@ Script d'installation d'un Ubuntu minimal pour Google Chrome
 > Attention lors de la frappe au clavier, celui-ci est resté en querty malgré le choix du clavier azerty peu avant _(sera pris en compte au prochain boot)_
 
 ## Suppression / installations des applications
-- lancer le script ```install-ubuntu-mini.sh```
+Appel du script d'installation du poste
 ```
-wget https://raw.githubusercontent.com/pbillerot/ubuntu-mini/master/install-ubuntu-mini.sh
-chmod +x install-ubuntu-mini.sh
-# Vérifier que firefox n'est pas ouvert
-./install-ubuntu-mini.sh
+sudo apt install curl
+curl -sSL https://raw.githubusercontent.com/pbillerot/ubuntu-mini/master/install-ubuntu-mini.sh | sh
 ```
-- supprimer le script
-
 > Étapes suivantes à réaliser avec l'utilisateur de la machine 
 
 ## Réglages Ubuntu (application Paramètres)
