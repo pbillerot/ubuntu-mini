@@ -1,14 +1,12 @@
 #!/usr/bin/env bash
+sudo update
+sudo upgrade -y
 
 # Suppression des applications trop lentes car gérées par snap
 sudo apt autoremove --purge snapd gnome-software-plugin-snap
-sudo rm -rf /var/cache/snapd/
 rm -fr ~/snap
 # Suppression de Firefox (sera remplacé par Chrome)
 sudo apt remove firefox* -y
-
-sudo update
-sudo upgrade -y
 
 # Installation paquets standards
 

@@ -98,6 +98,11 @@ curl -sSL https://raw.githubusercontent.com/pbillerot/ubuntu-mini/master/install
 
 ## Hangout avec appel vidéo
 
+## Bilan dans bnohost
+- vérifier que snap a bien désinstallé
+- ```inxi -F >inxi.txt```
+- ```apt-mark showmanual > apt.txt```
+- supprimmer les fichiers
 
 
 
