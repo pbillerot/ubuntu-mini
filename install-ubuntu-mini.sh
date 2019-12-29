@@ -6,7 +6,9 @@ sudo upgrade -y
 sudo apt autoremove --purge snapd gnome-software-plugin-snap
 rm -fr ~/snap
 # Suppression de Firefox (sera remplacé par Chrome)
-sudo apt remove firefox* -y
+sudo apt autoremove --purge firefox*
+# Suppression de Rhythmbox (sera remplacé par Chrome)
+sudo apt autoremove --purge rhythmbox*
 
 # Installation paquets standards
 
@@ -24,9 +26,9 @@ sudo apt install -y inxi
 sudo apt install -y baobab
 sudo apt install -y gnome-calculator gnome-logs gnome-characters gnome-system-monitor
 # Gallerie photos
-sudo apt install -y shotwell
+sudo apt install -y gThumb
 # Lecteur multimédia
-sudo apt install -y vlc rhythmbox
+sudo apt install -y vlc
 # LibreOffice
 sudo apt install -y libreoffice libreoffice-gtk libreoffice-l10n-fr libreoffice-help-fr hyphen-fr
 
