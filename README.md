@@ -10,7 +10,7 @@ Script d'installation d'un Ubuntu minimal pour Google Chrome
 
 ## Avant d'effacer le système existant,
 - Il faut noter la configuration matérielle de la machine
-- sur Windows installer le logiciel HWiNFO
+- sur Windows MSINFO ou installer le logiciel HWiNFO
 - faire des copies d'écrans et les enregistrer dans GDrive
 
 ## Installation Ubuntu sur la machine cible :
