@@ -44,7 +44,8 @@ curl -sSL https://raw.githubusercontent.com/pbillerot/ubuntu-mini/master/install
 - Régler Souris pavé tactile
 ### Détails
 - Utilisateurs: connexion automatique ?
-- Applications par défaut : Chrome, Vlc, Visionneuse d'images
+- Applications par défaut : 
+- Sites Web: Chrome, Courriels: rien, Calendrier: GEdit; Musique: Vlc, Vidéos: Vlc, Photos: gThumb
 
 ## Réglages Gnome 
 ### Application Ajustements
@@ -53,7 +54,7 @@ curl -sSL https://raw.githubusercontent.com/pbillerot/ubuntu-mini/master/install
 - Clavier & souris / Pavé tactile : désactiver pendant la saisie
 - Energie: mettre en veille si écran rabattu
 ### Bureau
-- Enlever des favoris: Aide, Rhythmbox
+- Enlever des favoris: Aide, LibreOffice Writer, Logiciels
 - Ajouter Calculatrice aux favoris
 - Ajouter Chrome aux favoris du dock
 
