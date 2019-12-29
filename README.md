@@ -8,7 +8,7 @@ Script d'installation d'un Ubuntu minimal pour Google Chrome
 - Créer une image iso d'Ubuntu à partir de la version la plus stable (LTS) usr une clé USB
   ```ubuntu-18.04.3-desktop-amd64.iso``` à la date de rédaction de ce document
 
-## Avant d'effacer le système existant, il faudra noter :
+## Avant d'effacer le système existant,
 - Il faut noter la configuration matérielle de la machine
 - sur Windows installer le logiciel HWiNFO
 - faire des copies d'écrans et les enregistrer dans GDrive
