@@ -1,14 +1,12 @@
 #!/usr/bin/env bash
-sudo update
-sudo upgrade -y
+sudo apt update
+sudo apt upgrade -y
 
 # Suppression des applications trop lentes car gérées par snap
-sudo apt autoremove --purge snapd gnome-software-plugin-snap
-rm -fr ~/snap
+sudo apt autoremove --purge snapd* -y
+# rm -fr ~/snap
 # Suppression de Firefox (sera remplacé par Chrome)
-sudo apt autoremove --purge firefox*
-# Suppression de Rhythmbox (sera remplacé par Chrome)
-sudo apt autoremove --purge rhythmbox*
+sudo apt autoremove --purge firefox* -y
 
 # Installation paquets standards
 
