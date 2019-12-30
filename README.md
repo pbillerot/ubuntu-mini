@@ -64,7 +64,7 @@ curl -sSL https://raw.githubusercontent.com/pbillerot/ubuntu-mini/master/install
 - Ajouter Chrome aux favoris du dock
 
 ### Préférences des applications au démarrage
-- enlever snap
+- raf
 
 > Redémarrage de la machine 
 
