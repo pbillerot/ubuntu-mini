@@ -88,7 +88,7 @@ curl -sSL https://raw.githubusercontent.com/pbillerot/ubuntu-mini/master/install
 ### Fichiers / Préférences
 - Ctrl_+ Ctrl_- Ctrl_0 
 - Voir si la box est visible dans Autres emplacements
-- Envoyer multimedia.zip via la messagerie
+- Télécharger multimedia.zip via la Gdrive
 ### Extensions Chrome
 - Extension Google Keep pour Chrome
 - Chrome Remote Desktop https://remotedesktop.google.com
@@ -104,7 +104,7 @@ curl -sSL https://raw.githubusercontent.com/pbillerot/ubuntu-mini/master/install
 
 ## Hangout avec appel vidéo
 
-## Bilan dans bnohost
+## Bilan
 - vérifier que snap a bien été désinstallé
 - ```inxi -F >inxi.txt```
 - ```apt-mark showmanual > apt.txt```
