@@ -24,7 +24,7 @@ sudo apt install -y inxi
 sudo apt install -y baobab
 sudo apt install -y gnome-calculator gnome-logs gnome-characters gnome-system-monitor
 # Gallerie photos
-sudo apt install -y gThumb
+sudo apt install -y gthumb
 # Lecteur multimédia
 sudo apt install -y vlc
 # LibreOffice
