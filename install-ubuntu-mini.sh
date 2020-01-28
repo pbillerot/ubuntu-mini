@@ -6,12 +6,13 @@ sudo apt upgrade -y
 sudo apt autoremove --purge snapd* -y
 # rm -fr ~/snap
 # Suppression de Firefox (sera remplacé par Chrome)
-sudo apt autoremove --purge firefox* -y
+# on garde firefox
+# sudo apt autoremove --purge firefox* -y
 
 # Installation paquets standards
 
 # Chromium
-sudo apt install -y chromium-browser
+# sudo apt install -y chromium-browser
 
 # Gnome + Système
 sudo apt install -y gnome-tweak-tool
